@@ -1,6 +1,6 @@
-# ml_kit_face_detection
+#Face Detection
 
-A new Flutter application.
+A Flutter Application to detect face.
 
 ## Getting Started
 
@@ -14,3 +14,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+![38003b2b-adfa-4017-a528-180bd299f42c](https://user-images.githubusercontent.com/43057341/149670318-bf427c0f-735e-44ad-a2a8-9a11a59aeb09.jpg)
